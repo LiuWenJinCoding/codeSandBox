@@ -1,5 +1,11 @@
 add some change
 
+<<<<<<< HEAD
 second commit 
 
 git add branch 'other branch'
+=======
+second change  commit 
+
+change branch
+>>>>>>> test-branch
