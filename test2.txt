@@ -1,6 +1,6 @@
 add some change
 
 second commit 
-+5555 edit
++5555 change1
 git add branch 'other branch'
 
