@@ -1,8 +1,13 @@
 add some change
 
 second commit 
+<<<<<<< HEAD
 +33333 change
 git add branch 'new branch'
 
 change test2
+=======
++5555 edit
+git add branch 'other branch'
+>>>>>>> 3d3c1fbec883a1884ac7d132df2ac293a3eb6188
 
