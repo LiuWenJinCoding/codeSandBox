@@ -1,13 +1,7 @@
 add some change
 
-<<<<<<< HEAD
-second commit 
-+1111
-git add branch 'other branch'
-=======
 second change  commit 
 
 change branch
->>>>>>> test-branch
 
 change 1
