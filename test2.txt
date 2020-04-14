@@ -9,3 +9,5 @@ second change  commit
 
 change branch
 >>>>>>> test-branch
+
+change 1
