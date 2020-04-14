@@ -1,7 +1,7 @@
 add some change
 
-second change  commit 
+second commit 
++5555 edit
+git add  'other branch'
 
-change branch
-
-change 1
+local get
